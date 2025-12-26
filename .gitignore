@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project specific
+output/*
+!output/.gitkeep
+patterns/*
+!patterns/.gitkeep
+creators/*
+!creators/.gitkeep
+.agent_hub/
+.claude/
+CLAUDE.md
+DEV_NOTES.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+PLAN.md

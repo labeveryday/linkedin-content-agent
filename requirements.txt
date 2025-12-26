@@ -1,0 +1,19 @@
+# Core
+strands-agents
+strands-agents[anthropic]
+strands-agents[gemini]
+strands-agents[openai]
+strands-agents-tools
+python-dotenv
+
+# CLI
+typer[all]
+rich
+
+# Image generation
+google-genai
+Pillow
+
+# Optional - uncomment as needed
+# strands-agents[openai]    # For OpenAI models
+# playwright                # For code screenshots
